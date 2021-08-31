@@ -1,0 +1,4 @@
+text decoration options
+place image and use text wrap to adjust image..
+rectangular image tool-text wrap
+text box tool-for text
